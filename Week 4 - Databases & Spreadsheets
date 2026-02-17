@@ -1,0 +1,46 @@
+# %% [markdown]
+# 
+# 1.  What is the difference between a spreadsheet and a database?
+# 
+# 
+
+# %% [markdown]
+# A spreadsheet is a computer program that allows users to organize data in rows and columns. It is often used for storing, manipulating, and analyizing data in tabular form.  A data base is a structure collection of data, often managed and stored in an organized manner for easy retrieval and analysis. 
+
+# %% [markdown]
+# 2. What are the advantages and disadvantages of using a spreadsheet for health data management?
+
+# %% [markdown]
+# Spreadsheets are easier to use, and learn. However, they are less secure and have limited scalability.
+
+# %% [markdown]
+# 3. What are the advantages and disadvantages of using a database for health data management?
+
+# %% [markdown]
+# More secure, more accessible. Harder to learn and access.
+
+# %% [markdown]
+# 4. What are some examples of tasks that can be performed using a spreadsheet?
+
+# %% [markdown]
+# Answer: Data Entry, Data Manipulation, Data Analysis, Data Visualization
+
+# %% [markdown]
+# 5. What are some examples of tasks that can be performed using a database?
+
+# %% [markdown]
+# Managing and manipulating large data sets.
+
+# %% [markdown]
+# 6. What are some examples of tasks that can be performed using both a spreadsheet and a database?
+
+# %% [markdown]
+# Manipulating and wrangling data.
+
+# %% [markdown]
+# 7. What are some examples of tasks that can be performed using neither a spreadsheet nor a database?
+
+# %% [markdown]
+# Video editing and production, mapping and GIS.
+
+
