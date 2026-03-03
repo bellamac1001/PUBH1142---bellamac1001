@@ -1,0 +1,53 @@
+# How do you define a list in Python?
+my_list = [1, 2, 3, 4]
+
+# How do you access the third element of a Python list named my_list?
+my_list[2]  # Indexing starts at 0
+
+# How can you add the element "new_item" to the end of an existing list named my_list?
+my_list.append("new_item")
+
+
+# How do you create a Python tuple with the items "apple", "banana", and "cherry"?
+my_tuple = ("apple", "banana", "cherry")
+
+# How do you access the first element of a Python tuple named my_tuple?
+my_tuple[0]
+
+
+# How do you define a dictionary in Python with keys "name", "age" and values "John Doe", 30?
+my_dict = {
+    "name": "John Doe",
+    "age": 30
+}
+
+# How can you retrieve the value for the key "name" from the dictionary my_dict
+my_dict["name"]
+
+# How can you change the value associated with the key "age" in the dictionary my_dict to 35?
+my_dict["age"] = 35
+
+# How can you add a new key-value pair "city":"New York" to the dictionary my_dict?
+my_dict["city"] = "New York"
+
+
+# How do you create a set in Python with the items "apple", "banana", and "cherry"?
+my_set = {"apple", "banana", "cherry"}
+
+# How do you add the item "orange" to an existing set my_set?
+my_set.add("orange")
+
+# How do you remove the item "banana" from the set my_set?
+my_set.remove("banana")
+
+
+# What is the length of a list my_list with elements [1, 2, 3, 4, 5]?
+my_list = [1, 2, 3, 4, 5]
+len(my_list)  # Result: 5
+
+# What will be the result of my_list * 2 if my_list is [1, 2, 3]?
+my_list = [1, 2, 3]
+my_list * 2  # Result: [1, 2, 3, 1, 2, 3]
+
+# What is the result of set([1,2,2,3,4,4,4,5,5])?
+set([1, 2, 2, 3, 4, 4, 4, 5, 5])  # Result: {1, 2, 3, 4, 5}
